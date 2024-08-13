@@ -1,0 +1,298 @@
+    1  cd documento/
+    2  cd documentos/
+    3  cd documents/
+    4  git clone https://github.com/EreysisSalazar/EreysisToTer.git
+    5  cd EreysisToTer/
+    6  git branch
+    7  git checkout -b "primeira-aula"
+    8  git status
+    9  git add.nome.txt
+   10  git add nome.txt
+   11  git status
+   12  git status
+   13  git add .
+   14  git status
+   15  git commit -m"criei um arquivo com nome"
+   16  git config --global user.email "ereysiss@gmail.com"
+   17  git config --global user.name "Ereysis sala"
+   18  git commit -m"criei um arquivo com nome"
+   19  git push
+   20  git push --set-upstream origin primeira-aula
+   21  git push --set-upstream origin primeira-aula
+   22  cd documents/
+   23  git clone https://github.com/EreysisSalazar/EreysisToTer.git
+   24  git remote -v
+   25  git remote add origin https://github.com/EreysisSalazar/EreysisToTer.git
+   26  cd EreysisToTer/
+   27  git log
+   28  git push
+   29  git push --set-upstream origin primeira-aula
+   30  git tag 1.0
+   31  git log
+   32  git push
+   33  git push origin 1.0
+   34  git status 
+   35  git add .
+   36  git status
+   37  git commit -m "adicionei o ultimo nome do ereysis"
+   38  git push 
+   39  git tag 2.0
+   40  git push origin 2,0
+   41  git push origin 2.0
+   42  git checkout -b "adicao-segunda-linha-nome"
+   43  git status
+   44  git add .
+   45  git commit m "adicionei nome toti no arquivo"
+   46  git push
+   47      git push --set-upstream origin adicao-segunda-linha-nome
+   48  cd
+   49  cd documentos
+   50  cd documents/
+   51  cd ereysistoter
+   52  ls
+   53  cd prieira aula
+   54  cd primeira aula
+   55  cd EreysisToTer primeira-aula
+   56  clear
+   57  cd documents/EreysisToTer
+   58  clear
+   59  git log
+   60  git checkout primeira-aula
+   61  git branch
+   62  git status
+   63  git add .
+   64  git log
+   65  clear
+   66  git checkout -b"adicao-segunda-linha-nome
+   67  git checkout -b "adicao-segundalinha-nome"
+   68  git status
+   69  git add .
+   70  git commit -m"adicionei nome toti no arquivo"
+   71  git push
+   72      git push --set-upstream origin adicao-segundalinha-nome
+   73  git checkout primeira-aula
+   74  git branch
+   75  git branch -d adicao-segunda-linha-nome
+   76  git branch
+   77  clear
+   78  git log
+   79  git pull
+   80  git log
+   81  cd documents/
+   82  cd ereysistoter
+   83  git checkout -b "correcao-a"
+   84  git status
+   85  git add .
+   86  git commit -m "corrigi a palavra diversidade"
+   87  git push
+   88   git push --set-upstream origin correcao-a
+   89  git checkout primeira-aula
+   90  git checkout -b 'correcao-b'
+   91  git commit -m "corrigi a palavra diversidade com diversidad"
+   92  git add .
+   93  git status
+   94  git commit -m "corrigi a palavra diversidade com diversidad"
+   95  git push
+   96  git push --set-upstream origin correcao-b
+   97  git checkout primeira-aula
+   98   git log
+   99  cd documents/
+  100  cd ereysistoter/
+  101  git status
+  102  git checkout
+  103  cd correcao-a
+  104  git checkout -b "correcao-a"
+  105  git status
+  106  cd documents/ereysistoter/correcao-a
+  107  git branch
+  108  git checkout correcao-
+  109  git checkout 'correcao-a'
+  110  git status
+  111  git add .
+  112  git commit -m "corrigi a palavra diversidade"
+  113  git push
+  114  git checkout primeira-aula
+  115  git checkout 'correcao-b'
+  116  git commit -m "corrigi a palavra com um _"
+  117  git commit -m "corrigi a palavra com e "
+  118  git commit -m "corrigi a palavra com e"
+  119  git push
+  120  git commit -m "corrigi a palavra com e"
+  121  git commit -m "corrigi a palavra com _"
+  122  git commit -m "corrigi a palavra com ee"
+  123  git commit -m "corrigi a palavra diversidade com ee"
+  124  git commit -m "corrigi a palavra diversidade com _"
+  125  git commit -m 'corrigi a palavra diversidade com ee'
+  126  git add .
+  127  git status
+  128  git commit -m 'corrigi a palavra diversidade com ee'
+  129  git checkout -b 'correcao-b'
+  130  git status
+  131  git status
+  132  git commit -m 'corrigi a palavra diversidade com e_'
+  133  git commit -m 'corrigi a palavra diversidade com eee'
+  134  git commit -m 'corrigi a palavra diversidade com _'
+  135  git commit -m 'corrigi a palavra diversidadee'
+  136  git commit -m 'corrigi a palavra diversidadee'
+  137  git commit -m "corrigi a palavra diversidade com e"
+  138  git commit -m "corrigi a palavra diversidade com eee"
+  139  git status
+  140  git branch
+  141  git checkout primeira-aula
+  142  git branch
+  143  git checkout 'correcao-b'
+  144  git commit -m "corrigi a palavra diversidadeeee"
+  145  git add .
+  146  git status
+  147  git commit -m "corrigi a palavra diversidadeeee"
+  148  git push
+  149  git commit -m "corrigi a palavra diversidade com E"
+  150  git checkout primeira-aula
+  151  git push
+  152  git pull
+  153  git push
+  154  git checkout 'correcao-b'
+  155  git commit -m "corrigi a palavra diversidade com E"
+  156  ls
+  157  pwd
+  158  git init
+  159  git status
+  160  clear
+  161  git clone [200~bug-free space guacamole~
+  162  clear
+  163  git clone https://v3.football.api-sports.io/players/squads?team=127
+  164  clear
+  165  git clone [200~'https://v3.football.api-sports.io/players/squads?team=127'~
+  166  clear
+  167  history
+  168  git config --global user.name 'Ereysis Salazar'
+  169  git config --global user.email 'ereysiss@gmail.com'
+  170  >
+  171  git config user.name
+  172  cd Desktop/
+  173  mkdir Curso_Git
+  174  cd Curso_Git/
+  175  git config --global user.email 'ereysiss@gmail.com'
+  176  git config user.name
+  177  git init
+  178  git status
+  179  echo '#Aprender com git' > readme.md
+  180  git status 
+  181  git add readme.md
+  182  git status
+  183  git commit -m 'commit inicial'
+  184  git status
+  185  echo '##Aula 3' >> readme.md
+  186  git status
+  187  echooooooo 'Ereysis Salazar' > alunnos.txt
+  188  echo 'Ereysis Salazar' > alunnos.txt
+  189  git status
+  190  git  add .
+  191  git status
+  192  git add alunnos.txt
+  193  git status
+  194  git restore --staged .
+  195  git status
+  196  git commit -am 'alteração no readme'
+  197  git status
+  198  git add alunnos.txt
+  199  git status
+  200  git commit -m 'adicionado alunnos.txt'
+  201  history > aula_4.txt
+  202  git status
+  203  git add .
+  204  git commit -m 'comandos da aula4'
+  205  ls
+  206  clear
+  207  git log
+  208  LS
+  209  ls -a
+  210  ls
+  211  ls -a
+  212  ls ..
+  213  pwd
+  214  cd
+  215  ls
+  216  cd Desktop/
+  217  pwd
+  218  cd ..
+  219  cd ~ 
+  220  cd D
+  221  cd D
+  222  cd Desktop/
+  223  mkdir comandas
+  224  ls
+  225  ls
+  226  mkdir Comandos
+  227  ls
+  228  mkdir Madress
+  229  ls
+  230  LS
+  231  ls
+  232  ls
+  233  LS
+  234  cd Madress/
+  235  mkdir pasta linda
+  236  ls
+  237  mkdir "pasta linda"
+  238  ls
+  239  mkdir -p new/old
+  240  ls
+  241  ls new
+  242  rm -r linda pasta
+  243  rm -r new
+  244  ls
+  245  mv 'pasta linda' pasta_nova
+  246  ls
+  247  mkdir new
+  248  ls
+  249  mv new pasta_nova/
+  250  ls
+  251  ls
+  252  ls pasta_nova/
+  253  cd ..
+  254  cd Madress
+  255  touch arquivo.txt
+  256  ls
+  257  cp arquivo.txt pasta_nova/
+  258  ls pasta_nova/
+  259  echo 'Mensagem"
+  260  echo 'Mensagem'
+  261  Mensagem
+  262  echo 'mensagem' 
+  263  ls
+  264  ls
+  265  ls pasta_nova/
+  266  ls Madress
+  267  history 
+  268  clear
+  269  git config --global user.name 'Ereysis Salazar'
+  270  git config --global user.email 'ereysiss@gmail.com'
+  271  git config user.name
+  272  cd Desktop/
+  273  mkdir curso_analistagit
+  274  cd curso_analistagit/
+  275  git config user.name
+  276  git init
+  277  git status
+  278  echo '#aprender usar o git' > readme.md
+  279  git status
+  280  git add redme.md
+  281  git add readme.md
+  282  git status
+  283  git commit -m 'commit inicial'
+  284  git status
+  285  echo '##aula2' >>readme.md
+  286  git status
+  287  echo 'ereysis salazar' > participa.txt
+  288  git status
+  289  git add .
+  290  git status
+  291  git restore --staged .
+  292  git status
+  293  git commit -am 'alteracão no readm'
+  294  git status
+  295  git add participa.txt
+  296  git status
+  297  git commit -m 'Adicionado participa.txt'
+  298  history > Aula_3.txt
