@@ -1,69 +1,73 @@
-    1  cd documento/
-    2  cd documentos/
-    3  cd documents/
-    4  git clone https://github.com/EreysisSalazar/EreysisToTer.git
-    5  cd EreysisToTer/
-    6  git branch
-    7  git checkout -b "primeira-aula"
-    8  git status
-    9  git add.nome.txt
-   10  git add nome.txt
-   11  git status
-   12  git status
-   13  git add .
-   14  git status
-   15  git commit -m"criei um arquivo com nome"
-   16  git config --global user.email "ereysiss@gmail.com"
-   17  git config --global user.name "Ereysis sala"
-   18  git commit -m"criei um arquivo com nome"
-   19  git push
-   20  git push --set-upstream origin primeira-aula
-   21  git push --set-upstream origin primeira-aula
-   22  cd documents/
-   23  git clone https://github.com/EreysisSalazar/EreysisToTer.git
-   24  git remote -v
-   25  git remote add origin https://github.com/EreysisSalazar/EreysisToTer.git
-   26  cd EreysisToTer/
-   27  git log
-   28  git push
-   29  git push --set-upstream origin primeira-aula
-   30  git tag 1.0
-   31  git log
-   32  git push
-   33  git push origin 1.0
-   34  git status 
-   35  git add .
-   36  git status
-   37  git commit -m "adicionei o ultimo nome do ereysis"
-   38  git push 
-   39  git tag 2.0
-   40  git push origin 2,0
-   41  git push origin 2.0
-   42  git checkout -b "adicao-segunda-linha-nome"
-   43  git status
-   44  git add .
-   45  git commit m "adicionei nome toti no arquivo"
-   46  git push
-   47      git push --set-upstream origin adicao-segunda-linha-nome
-   48  cd
-   49  cd documentos
-   50  cd documents/
-   51  cd ereysistoter
-   52  ls
-   53  cd prieira aula
-   54  cd primeira aula
-   55  cd EreysisToTer primeira-aula
-   56  clear
-   57  cd documents/EreysisToTer
-   58  clear
-   59  git log
-   60  git checkout primeira-aula
-   61  git branch
-   62  git status
-   63  git add .
-   64  git log
-   65  clear
-   66  git checkout -b"adicao-segunda-linha-nome
+    1  clear
+    2  git log
+    3  ls
+    4  clear
+    5   1  cd documento/
+    6      2  cd documentos/
+    7      3  cd documents/
+    8      4  git clone https://github.com/EreysisSalazar/EreysisToTer.git
+    9      5  cd EreysisToTer/
+   10      6  git branch
+   11      7  git checkout -b "primeira-aula"
+   12      8  git status
+   13      9  git add.nome.txt
+   14     10  git add nome.txt
+   15     11  git status
+   16     12  git status
+   17     13  git add .
+   18     14  git status
+   19     15  git commit -m"criei um arquivo com nome"
+   20     16  git config --global user.email "ereysiss@gmail.com"
+   21     17  git config --global user.name "Ereysis sala"
+   22     18  git commit -m"criei um arquivo com nome"
+   23     19  git push
+   24     20  git push --set-upstream origin primeira-aula
+   25     21  git push --set-upstream origin primeira-aula
+   26     22  cd documents/
+   27     23  git clone https://github.com/EreysisSalazar/EreysisToTer.git
+   28     24  git remote -v
+   29     25  git remote add origin https://github.com/EreysisSalazar/EreysisToTer.git
+   30     26  cd EreysisToTer/
+   31     27  git log
+   32     28  git push
+   33     29  git push --set-upstream origin primeira-aula
+   34     30  git tag 1.0
+   35     31  git log
+   36     32  git push
+   37     33  git push origin 1.0
+   38     34  git status 
+   39     35  git add .
+   40     36  git status
+   41     37  git commit -m "adicionei o ultimo nome do ereysis"
+   42     38  git push 
+   43     39  git tag 2.0
+   44     40  git push origin 2,0
+   45     41  git push origin 2.0
+   46     42  git checkout -b "adicao-segunda-linha-nome"
+   47     43  git status
+   48     44  git add .
+   49     45  git commit m "adicionei nome toti no arquivo"
+   50     46  git push
+   51     47      git push --set-upstream origin adicao-segunda-linha-nome
+   52     48  cd
+   53     49  cd documentos
+   54     50  cd documents/
+   55     51  cd ereysistoter
+   56     52  ls
+   57     53  cd prieira aula
+   58     54  cd primeira aula
+   59     55  cd EreysisToTer primeira-aula
+   60     56  clear
+   61     57  cd documents/EreysisToTer
+   62     58  clear
+   63     59  git log
+   64     60  git checkout primeira-aula
+   65     61  git branch
+   66     62  git status
+   67     63  git add .
+   68     64  git log
+   69     65  clear
+   70     66  git checkout -b"adicao-segunda-linha-nome
    67  git checkout -b "adicao-segundalinha-nome"
    68  git status
    69  git add .
@@ -257,42 +261,50 @@
   257  cp arquivo.txt pasta_nova/
   258  ls pasta_nova/
   259  echo 'Mensagem"
-  260  echo 'Mensagem'
-  261  Mensagem
-  262  echo 'mensagem' 
-  263  ls
-  264  ls
-  265  ls pasta_nova/
-  266  ls Madress
-  267  history 
-  268  clear
-  269  git config --global user.name 'Ereysis Salazar'
-  270  git config --global user.email 'ereysiss@gmail.com'
-  271  git config user.name
-  272  cd Desktop/
-  273  mkdir curso_analistagit
-  274  cd curso_analistagit/
-  275  git config user.name
-  276  git init
-  277  git status
-  278  echo '#aprender usar o git' > readme.md
-  279  git status
-  280  git add redme.md
-  281  git add readme.md
-  282  git status
-  283  git commit -m 'commit inicial'
-  284  git status
-  285  echo '##aula2' >>readme.md
-  286  git status
-  287  echo 'ereysis salazar' > participa.txt
-  288  git status
-  289  git add .
-  290  git status
-  291  git restore --staged .
-  292  git status
-  293  git commit -am 'alteracão no readm'
-  294  git status
-  295  git add participa.txt
-  296  git status
-  297  git commit -m 'Adicionado participa.txt'
-  298  history > Aula_3.txt
+   71    260  echo 'Mensagem'
+   72    261  Mensagem
+   73    262  echo 'mensagem' 
+   74    263  ls
+   75    264  ls
+   76    265  ls pasta_nova/
+   77    266  ls Madress
+   78    267  history 
+   79    268  clear
+   80    269  git config --global user.name 'Ereysis Salazar'
+   81    270  git config --global user.email 'ereysiss@gmail.com'
+   82    271  git config user.name
+   83    272  cd Desktop/
+   84    273  mkdir curso_analistagit
+   85    274  cd curso_analistagit/
+   86    275  git config user.name
+   87    276  git init
+   88    277  git status
+   89    278  echo '#aprender usar o git' > readme.md
+   90    279  git status
+   91    280  git add redme.md
+   92    281  git add readme.md
+   93    282  git status
+   94    283  git commit -m 'commit inicial'
+   95    284  git status
+   96    285  echo '##aula2' >>readme.md
+   97    286  git status
+   98    287  echo 'ereysis salazar' > participa.txt
+   99    288  git status
+  100    289  git add .
+  101    290  git status
+  102    291  git restore --staged .
+  103    292  git status
+  104    293  git commit -am 'alteracão no readm'
+  105    294  git status
+  106    295  git add participa.txt
+  107    296  git status
+  108    297  git commit -m 'Adicionado participa.txt'
+  109    298  history > Aclear
+  110  ls
+  111  git log
+  112  clear
+  113  git config --global user.name 'ereysis salazar'
+  114  git status
+  115  cd Desktop/
+  116  cd curso_analistagit/
+  117  history > Aula_3.txt
